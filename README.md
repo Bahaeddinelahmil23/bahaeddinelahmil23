@@ -35,7 +35,7 @@ I actively participate in AI competitions and data science hackathons, where I e
 * NLP & LLM Technologies (Hugging Face, LangChain)
 * Computer Vision (OpenCV, YOLO)
 * Vector Databases (FAISS, ChromaDB)
-* Development Tools: Jupyter, Docker
+* Development Tool: Jupyter, Docker
 
 ---
 
